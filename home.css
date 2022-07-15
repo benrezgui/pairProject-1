@@ -5,7 +5,11 @@
 h1{
     margin:0px;
     font-size:60px;
+    font-weight: bold;
+    border-radius: 15px;
+    border: 2px solid #fff;
     color: red;
+    padding: 15px 35px;
     font-family:Arial;
     font-weight: bold;
     text-align:center;
@@ -46,7 +50,7 @@ body {
  ul li{
     list-style:none;
     border: 2px solid #fff;
-    font-size: 15px;
+    font-size: 30px;
     font-weight: bold;
     margin: 30px;
     border-radius: 15px;
@@ -61,9 +65,53 @@ body {
     text-align:center;
  }
  ul li:nth-child(1) a{
-    color: red;
+    color:red;
     
 
+ }
+ .btn{
+    list-style:none;
+    border: 2px solid #fff;
+    font-size: 30px;
+    font-weight: bold;
+    margin: 30px;
+    border-radius: 15px;
+    font-family: arial;
+    text-decoration: none;
+    padding: 15px 35px;
+    display: block;
+    text-align:center;
+    color:red;
+    
+
+
+ }
+ .btn:hover{
+    background-color: greenyellow;
+ }
+    .btn1{
+   list-style:none;
+    border: 2px solid #fff;
+    font-size: 30px;
+    font-weight: bold;
+    margin: 30px;
+    border-radius: 15px;
+    font-family: arial;
+    text-decoration: none;
+    padding: 15px 35px;
+    display: block;
+    text-align:center;
+    color:red;
+   
+
+ }
+
+ .btn1:hover{
+   background-color: greenyellow;
+    
+ }
+ .btn :hover{
+   background-color: greenyellow;
  }
 
 
