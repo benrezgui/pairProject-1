@@ -90,18 +90,18 @@ body {
     background-color: greenyellow;
  }
     .btn1{
-   list-style:none;
-    border: 2px solid #fff;
-    font-size: 30px;
-    font-weight: bold;
-    margin: 30px;
-    border-radius: 15px;
-    font-family: arial;
-    text-decoration: none;
-    padding: 15px 35px;
-    display: block;
-    text-align:center;
-    color:red;
+      list-style:none;
+      border: 2px solid #fff;
+      font-size: 30px;
+      font-weight: bold;
+      margin: 30px;
+      border-radius: 15px;
+      font-family: arial;
+      text-decoration: none;
+      padding: 15px 35px;
+      display: block;
+      text-align:center;
+      color:red;
    
 
  }
